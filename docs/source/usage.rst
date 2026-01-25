@@ -8,6 +8,8 @@ Installation
 
 To use Lumache, first install it using pip:
 
+I am adding a line to test what happens when I update the file on my local machine and save it.
+
 .. code-block:: console
 
    (.venv) $ pip install lumache
